@@ -1,0 +1,33 @@
+   <div *ngIf="searchResult && searchResult.length > 0; else noResults">
+    <div class="row search-item" *ngFor="let item of searchResult">
+        <div class="col-sm-3">
+            <a routerLink="/details/{{item.id}}">
+                <img src="{{item.image}}" alt="Product Image">
+            </a>
+        </div>
+        <div class="col-sm-9 details">
+            <h6>
+                <a routerLink="/details/{{item.id}}">{{item.name}}</a>
+            </h6>
+            <p class="price"><b>Price: Rs.{{item.price}}</b></p>
+            <div class="meta">
+                <div class="meta-item">
+                    <span>Color:</span>
+                    <span 
+                        class="color-box" 
+                        [style.backgroundColor]="item.color">
+                    </span>
+                </div>
+                <div class="meta-item">
+                    <span>Category:</span> 
+                    <span>{{item.category}}</span>
+                </div>
+            </div>
+            <p class="description">{{item.description}}</p>
+        </div>
+    </div>
+</div>
+
+<ng-template #noResults>
+    <p class="no-results-message">No products found for your search.</p>
+</ng-template>

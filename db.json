@@ -1,0 +1,379 @@
+{
+  "seller": [
+    {
+      "id": "87b1",
+      "name": "Samarth Singh",
+      "email": "singhsamarth0506@gmail.com",
+      "password": "HareKrishna@5"
+    },
+    {
+      "id": "e81b",
+      "name": "Sarthak Singh",
+      "email": "singhsarthak1006@gmail.com",
+      "password": "HareKrishna@5"
+    },
+    {
+      "id": "5cbc",
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "529d",
+      "name": "Tony ",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "b6d1",
+      "name": "Tony Stark",
+      "email": "stark@industries.com",
+      "password": "mark_72"
+    },
+    {
+      "id": "cf51",
+      "name": "Tony",
+      "email": "ed",
+      "password": "dcs"
+    },
+    {
+      "id": "2da1",
+      "name": "Roahl Dahl",
+      "email": "123@xyz",
+      "password": "12345"
+    },
+    {
+      "id": "f933",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "2682",
+      "name": "Sugopi",
+      "email": "sgpm@gmail.com",
+      "password": "GKGM"
+    }
+  ],
+  "products": [
+    {
+      "id": "3a0c",
+      "name": "Women Gorgeous Solid Knits Bits Sweater",
+      "price": "375",
+      "color": "#90EE90",
+      "category": "Winter wear",
+      "description": "Stylish and versatile, knits bits are contemporary winter-wear ensembles that cover you from top to toe. They are usually knitted and boast details, such as ruffles, tie-ups, and cutouts in attractive prints and patterns, like colourblock, joyful expressions, soft stripes, and more.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQepQI-tjcnq2Kd-6njtpD-FHHMhDNkx_oX3QAjmoSek0SHl-xIkY6cvrGGXL9tl_f2nbesqC2THXGVgZBKc21Ezf4ED-jbQGPIGm98dmiZ&usqp=CAE"
+    },
+    {
+      "name": "Mast & Harbour Striped Casual Shirt",
+      "price": "639",
+      "color": "#FFB6C1",
+      "category": "Men's Clothing",
+      "description": "Specifications\nSleeve Length\nLong Sleeves\nCollar\nButton-Down Collar\nFit\nSlim Fit\nPrint or Pattern Type\nVertical Stripes\nOccasion\nCasual\nLength\nRegular\nHemline\nCurved\nPlacket\nButton Placket",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQxaNSCoh2tQOZYgu39tDVkb6GqeS4C-1bjzDs-VB5NHpo8CXiGCjRkqU1aQkPHNkbQXwRFxIlmksyqJguWyhZG-pJs-nX_1m5DX4OhGb4&usqp=CAE",
+      "id": "7a9c"
+    },
+    {
+      "id": "9e0a",
+      "name": "Men Colourblocked Lightweight Sneakers",
+      "price": "999",
+      "color": "White & Black ",
+      "category": "Footwear",
+      "description": "A pair of round toe white , black & blue sneakers, has regular styling,\nLace-ups detail\nSynthetic leather upper\nCushioned footbed\nTextured and patterned synthetic outsole",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNpsxmnqgSqHlyVfLFJz5oup2FbWMC6mWgdKK_cImouCy8tVERamVoKltU3xQbDm9Vvzl-DNeTrdX4IxHjJmW4jfKMGFOLYvupsgcxmEtTaZ_68E83WByF&usqp=CAE"
+    },
+    {
+      "id": "5a66",
+      "name": "Women Tasselled Cuff Bracelet",
+      "price": "312",
+      "color": "Pink",
+      "category": "Women's Accessories",
+      "description": "Gold-toned and pink cuff bracelet with tassel detail\nMaterial: Metal\nClosure: slip-on",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbHVbOrxhFXY8B69v96u8bMbrvl3lnTMkFcHGAr98xLACwWSPBPeBkQlRCHcBT4bFoBNdezCLZ46g2GvyStorfP9CwXTuklULePMuLasbi&usqp=CAE"
+    },
+    {
+      "name": "Women Sports Leggings",
+      "price": "3999",
+      "color": "#9ACD32",
+      "category": "Women's Activewear",
+      "description": "Nike AeroSwift\nWomen's Dri-FIT leggings",
+      "image": "https://i.pinimg.com/736x/6a/45/1b/6a451b87c7e9ee6a8fbc366af2612ac0.jpg",
+      "id": "0a84"
+    },
+    {
+      "name": "Levi's Men Blue Light Fade Stretchable Jeans",
+      "price": "4999",
+      "color": "#87CEEB",
+      "category": "Men's Clothing",
+      "description": "Dark shade, light fade blue jeans\nStraight fit, mid-rise\nClean look\nStretchable\n5 pocket\nLength: regular",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ6bbTp7_QGA5aEkae3xpUR0CyxlfXGWiIFpktSOIHC2cPXtX43_nAOlEvWqQ5hjxTFvgz44smJZ8rynYNfkFwg7lPJiGLcDtpM2U-R-v4&usqp=CAE",
+      "id": "6c0c"
+    },
+    {
+      "name": "Women High wasted Denim Shorts",
+      "price": "1200",
+      "color": "#87CEEB",
+      "category": "Women's Clothing",
+      "description": "Premium Fabric: 100% cotton. Loose fit wide leg jean shorts for women with decently thick fabric, not only for summer, but also a good choice (with leggings inside) for spring & autumn.",
+      "image": "https://media.etmall.com.tw/nximg/00100000552/100000552109/100000552109-2_xxl.jpg?t=19822976208",
+      "id": "5feb"
+    },
+    {
+      "name": "Athena Square Neck Maxi Dress",
+      "price": "1399",
+      "color": "#696969",
+      "category": "Women's Clothing",
+      "description": "Product Details:\nBlack maxi dress\nSolid\nSquare neck\nShort, flutter sleeves\nRuffles detail\nMaxi length in straight hem",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR9rABTaFjFKW5X6jXGZm_tCTjh21s16fOLgOIEuoxvJwzq8AjeyJyiNYL1e2fgpSmD7wSkY0W03BLNlzz4ehDsOLcGIbFWpwHV6zv4gZsmIPshM61IXkMI&usqp=CAE",
+      "id": "2faa"
+    },
+    {
+      "name": "Nike Women Downshifter 11 Running Shoes",
+      "price": "3499",
+      "color": "Pink",
+      "category": "Footwear",
+      "description": "Type\nSneakers\nToe Shape\nRound Toe\nPattern\nSolid\nFastening\nLace-Ups\nShoe Width\nRegular\nAnkle Height\nRegular\nInsole\nPadded\nSole Material\nPU",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGBToygpR-2wH50kv-JazJnWrvhcryPaaPvQHhaJ5v-mAWaB3rBV4ubBKWMcSn6cMWVA165lqFWCxjDankcHPYPjKRNaCmz-Qjn2xtrE29TW7l1mBn66Tv3Q&usqp=CAE",
+      "id": "e955"
+    },
+    {
+      "name": "Nike Men Black Air Max Alpha Trainer 4 Training Shoes",
+      "price": "5699",
+      "color": "#696969",
+      "category": "Footwear",
+      "description": "Sport\nTraining or Gym\nMaterial\nTextile\nFastening\nLace-Ups\nAnkle Height\nRegular\nOutsole Type\nMarking\nCleats\nNo Cleats\nCushioning\nMedium\nWarranty\n6 months",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmDA2TjjjZLjqtKFwrEPcaYLxWa-Lv_1vCTsHYSpvHlkCWjTlbgn5Gg_41-Ozzz2WAd70CCx8s4AzjkJjf2zjL7S0ze9SHNSmSUbNmtp0gmQvnes1w50LzEK8&usqp=CAE",
+      "id": "68eb"
+    },
+    {
+      "name": "Anime Graphic Printed Tshirt",
+      "price": "790",
+      "color": "#98FB98",
+      "category": "Men's Clothing",
+      "description": "Infuse your wardrobe with a touch of coolness with our men's oversized T-shirt in refreshing pistachio green color. This laid-back piece features a print of a cool kid casually sitting with a baseball bat, adding a playful and relaxed vibe to your ensemble. Against the soothing pistachio green backdrop, the design exudes effortless charm. This Oversized T-shirt is perfect for casual wear and style in equal measure. Pair it seamlessly with your favorite jeans or shorts for an easygoing yet stylish look, ideal for a variety of occasions.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS76irV-kCwKm9LzTjt4w98oZnYThzeKIZkKi5xgk_nXh-KaXcLJ3tMqmu1T6E3D9D1j8dN-TctJ_x46-1-TrT2n6hJaDzyGgekhFOGfgBF&usqp=CAE",
+      "id": "81f5"
+    },
+    {
+      "name": "Stylish Cotton Blend Digital Printed Saree",
+      "price": "1500",
+      "color": "Beige",
+      "category": "Ethnic Wear",
+      "description": "Design :: Print Style -Ajrak Print & Floral, Border-Digital Print\nFabric :: Saree - Cotton Blend | Blouse - Cotton Blend\nColor :: Saree - Beige, Crimson | Blouse - Beige\nSaree - 5.5Mtr, Blouse - 0.8Mtr (Need To Be Stitched As Per Size And Fit)\nThis saree is suitable for get stylish contemporary look in functions, parties, reception, festive occasions, marriage ceremony, get together, evening wear & gifting to loved ones",
+      "image": "https://m.media-amazon.com/images/I/81XqLQfKPzL._AC_UL480_FMwebp_QL65_.jpg",
+      "id": "8407"
+    },
+    {
+      "name": "Women Cotton T-shirt",
+      "price": "499",
+      "color": "#F08080",
+      "category": "Women's Clothing",
+      "description": "Fit Description: Boyfriend fit - Overall Loose on Body\nPrint Type: Graphic Print\nFabric Description: Single Jersey, 100% Cotton Classic, lightweight jersey fabric comprising 100% cotton.\nNeck: Round Neck\nStyle Tip: Pair this T-shirt with your favourite jeans and sneakers for a comfortable casual outfit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutxK-ZGEh-HogjR4djjF6v_A2oVbh_OEX5w&s",
+      "id": "305d"
+    },
+    {
+      "name": "Adidas Tshirt ",
+      "price": "1100",
+      "color": "#87CEEB",
+      "category": "Men's Clothing",
+      "description": "Regular fit\nRibbed crewneck\n100% cotton\nSourced through Better Cotton via a system of mass balance and therefore this product may not contain Better Cotton\nColour: Semi Blue Burst\nProduct code: IR7980",
+      "image": "data:image/jpeg;base64,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",
+      "id": "5c4e"
+    },
+    {
+      "name": "J B Fashion Tops for Women",
+      "price": "799",
+      "color": "#ADD8E6",
+      "category": "Women's Clothing",
+      "description": "Fabric : Reyon\nWash Care : first wash is dry clean after that use machine wash or hand wash\nSleeve Type : Half Sleeve",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu-_ih41A7f2mRUocukEqylcXgbwpz2fjIAg&s",
+      "id": "b439"
+    },
+    {
+      "name": "Men Sports Jacket",
+      "price": "1599",
+      "color": "White & Black",
+      "category": "Men's Activewear",
+      "description": "Size\t\nMedium\nColor\t\nMulti\nBrand\t\nNike\nSport\t\nRunning & Training\nMaterial\t\nPolyester\nProduct Type\t\nJerseys & Jackets",
+      "image": "https://5.imimg.com/data5/WD/YP/AO/SELLER-48794827/men-s-full-sleeves-sports-wear.jpg",
+      "id": "230e"
+    },
+    {
+      "name": "Levi's Women Baggy Fit Loose Jeans",
+      "price": "3560",
+      "color": "#87CEEB",
+      "category": "Women's Clothing",
+      "description": "Material type-Cotton\nLength-Standard Length\nStyle-Boyfriend\nClosure type-Button\nOccasion type-Casual\nCare instructions-Machine Wash\nCountry of Origin-Sri Lanka",
+      "image": "https://media.vogue.in/wp-content/uploads/2022/09/levisxdp465.jpg",
+      "id": "3e8d"
+    },
+    {
+      "name": "Men Blue Solid Pure Cotton Shorts",
+      "price": "850",
+      "color": "#87CEEB",
+      "category": "Men's Clothing",
+      "description": "Blue solid mid-rise pure cotton regular shorts, has 3 pockets, drawstring closure\n00% Cotton\nMachine-wash",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTkwbXFvFFU560QL3DAsDqKVGdo_0Nopzu2AKtzQVL4l_OpTi81InjxegWVOVUzOiHTE5ihmRv9fq-Tb3sFNGzw8nxZaAT5bs3Mgza823WS&usqp=CAE",
+      "id": "2f3e"
+    },
+    {
+      "name": "Multi Kurta and Nehru Jacket with Trouser (Set of 3) ",
+      "price": "3999",
+      "color": "Pink",
+      "category": "Ethnic Wear",
+      "description": "Stay stylish and warm with this men's Kurta Jacket Set. This classic design is made from Cotton Blend fabric with Printed Pattern and comes in Multi colours. Perfect for any occasion",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSWDkv0kOsjdKS6mmP1vgPWTPM2L_l62m6UPRCoRG2XLU48EtN3znEaoHErIN_arYtmZnjk6VrP78lYazuDuljXlbk6W2Clf1882RBoXQ3vem0Fuvmz9pfN&usqp=CAE",
+      "id": "7378"
+    },
+    {
+      "name": "Women Grey Camouflage AOP Sports Bra",
+      "price": "594",
+      "color": "Grey",
+      "category": "Women's Activewear",
+      "description": "Specfications\nKnit Or Woven\n: Knitted\nType\n: Workout\nPadding\n: Lightly Padded\nPattern\n: Printed\nWiring\n: Non-Wired\nCoverage\n: Full\nFabric\n: Polyester\nPrint\n: Abstract Print\nPrimary Colour\n: Grey\nFeatures\n: All Day Comfort\nSustainable\n: Regular\nClosure\n: Slip On",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCo31TgFFdyETldW81PaFHXNXcZVQnH4Mj7sGo1ZZkb4IvPgoUqOvFUMlUcMxIdgg7cr5J4aZMzhfrRMnRqx68dBvsM23SDxGKxby23sO_NmBwED4lUJYS2A&usqp=CAE",
+      "id": "12a5"
+    },
+    {
+      "id": "790c",
+      "name": "Men Black Dri-FIT Trackpants",
+      "price": "2258",
+      "color": "#696969",
+      "category": "Men's Activewear",
+      "description": "Black solid regular-fit mid-rise trackpants, has an elasticated waistband with slip on closure\nStandard fit for a relaxed, easy feel\nFront pockets\nElastic waistband and drawcord\nSoft fleece holds in the heat and sweat-wicking technology helps keep you dry\n",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTve_aQcdJdRto7PqVNSXlbMVDKpxD8WpWyRdvK-cT1ZA0wi_gxktj1dY1-zdFMhJNX-1dpeTo8zvNVdhJORAE6A9b9hy1J425hX84bs7g&usqp=CAE"
+    },
+    {
+      "id": "a54d",
+      "name": "Jewels Galaxy Women Silver-Plated Layered Necklace",
+      "price": "800",
+      "color": "#C0C0C0",
+      "category": "Women's Accessories",
+      "description": "Silver-plated layered necklace\nMaterial: Brass\nClosure: Lobster Closure",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRkh5YEt5IiEjS03G40x0lZeBTcyoKkpQL0Sig6Kbgtf9kmuZFaZ0nIvSvxVsji3vXsO1LAvv3uWkCc7vrd4ZW6BmrZsEmTxL1Z8GS-Bvc&usqp=CAE"
+    },
+    {
+      "id": "2a9a",
+      "name": "Men Black & Brown Solid Vegan Leather Accessory Gift Set",
+      "price": "749",
+      "color": "#696969",
+      "category": "Men's Accessories",
+      "description": "This Accessory Gift Set comes with a wallet and a belt\nBrown solid wallet, has two main compartments, with multiple card holders and coin pocket\nBlack solid belt, secured with a tang clasp\nComes in signature amicraft gift box",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaSmQTH2Mnp8nc4Jd53L33AkoKW-B-qW1LascXGet0AxOgPZ6_KnZvawxpWihOk6jrRgDGNi70v6MVueR1va1jk0WslmGHegjpkW1PmhVOMEKphpcbdydHhg&usqp=CAE"
+    },
+    {
+      "name": "Skirt for Women",
+      "price": "699",
+      "color": "#90EE90",
+      "category": "Women's Clothing",
+      "description": "Features:\n\nFlawless finish\nLight weight\nAttractive design",
+      "image": "https://4.imimg.com/data4/MA/DB/MY-9953785/ladies-western-skirts-500x500.jpg",
+      "id": "7732"
+    },
+    {
+      "id": "a064",
+      "name": "Men Analog Watch ",
+      "price": "850",
+      "color": "#A52A2A",
+      "category": "Men's Accessories",
+      "description": "Pack Contains: single watch\nDisplay: analogue\nMovement: quartz\nPower Source: battery\nDial style: Olive green solid round stainless steel dial\nFeatures: reset time\nStrap Style: brown, regular, leather strap with a tang closure\nWater resistant\nComes in a signature WROGN case\nWarranty: 1 year\nWarranty provided by brand owner/manufacturer",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVf96kGx-DTcARXWqzbNJwjiOB7ub7QvG7c6SiZpmH3p1UoxJpMaSOOIPyX_8FVFMKX4A8Qlce1i95LswaXbOSSfCGx41GhTAPTOD4VYgC&usqp=CAE"
+    },
+    {
+      "name": "Floral Embroidered Sweetheart Neck Georgette Maxi Dress",
+      "price": "1499",
+      "color": "#FF77FF",
+      "category": "Women's Clothing",
+      "description": "Maroon Floral embellished maxi dress\nSweetheart Neck\nShort, regular sleeves\nMaxi length in flared hem\nGeorgette fabric\nZip closure",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkx-6o6fQvFQBDbnXYzhSHzbLGWCbUmPN5UoSrOaCUGGxWf6sUtn11ZTtwK_Qt7DaRiHkL8qnbedn9PgtYFtpqUqWX3xCodboHFNudj0m-2qbNOJXrd11u&usqp=CAE",
+      "id": "0dee"
+    },
+    {
+      "name": "Men Solid Slim-Fit Single-Breasted Two-Piece Formal Suit",
+      "price": "3999",
+      "color": "#696969",
+      "category": "Men's Clothing",
+      "description": "Solid tuxedo suit\nSolid tuxedo blazer, has a peaked lapel, long sleeves, single-breasted with button closure, four pockets, an attached lining with two in-built pockets, and a double vented back hem\nSolid mid-rise partywear trousers, has a waistband with belt loops, hook-and-bar and button closure, zip fly, and three pockets",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZmj92Mc6H45omZ3oqNWvkJDejjxWSdAmFwnDMFbeX6k_l-7NvF5Wny_gBm8ifL03JxjcSYuYlqRIz5IBUZKUpfeLGntyW43naDpqnZ8I&usqp=CAE",
+      "id": "58e6"
+    },
+    {
+      "name": "Ethnic Motifs Yoke Design Gotta Patti Kurta With Trousers & Dupatta",
+      "price": "999",
+      "color": "Pink",
+      "category": "Women's Clothing",
+      "description": "Kurta design:\nEthnic motifs yoke design\nStraight shape\nRegular style\nRound neck, three-quarter regular sleeves\nGotta patti detail\nCalf length length with straight hem\nCotton blend machine weave fabric",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgXxdwz29XypLHx-1oZZWucoGYbYIpMNoAtNFoB1RRwyfka036F6lTwDeRXgw1HAatggr7cUwJCHEyzcND10K2royWLqCdjuGuBSLPfuKJ&usqp=CAE",
+      "id": "0ae2"
+    },
+    {
+      "id": "39b9",
+      "name": "Women White & Green Embroidered Lightweight Sneakers",
+      "price": "1109",
+      "color": "White",
+      "category": "Footwear",
+      "description": "A pair of round toe white,green and blue embroidered lightweight sneakers,has regular styling\nLace-ups detail\nSynthetic leather upper\nCushioned footbed\nTextured and patterned outsole\nWarranty: 1 month\nWarranty provided by brand/manufacturer",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSciu20yxDX6oJKKM9ZZZdg1sEI8lG1GjPE7s356XZZ9xErDt5fT0ZX3ibR_kYEnqIFVSwj2RHY4s6sX1pe1Jswj8cgZBQuVQD7v3rLFAQ&usqp=CAE"
+    },
+    {
+      "id": "5294",
+      "name": "Women Pink Print Top",
+      "price": "499",
+      "color": "Pink",
+      "category": "Women's Clothing",
+      "description": "Pink regular top, Abstract print, High neck, long, regular sleeves, Knitted, Polyester, Machine wash",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkB2wfzPTcYZ4AmzEMBZ_2KBuZ3tg3zAUYKTExdbB7ZZSzkWecNCaAjz19EJVJYdIVz0m4VtlZZuKkUIqBqr6B5RwJM-EqUQWayKmOXzk&usqp=CAE"
+    },
+    {
+      "id": "a557",
+      "name": "Printed PU Oversized Structured Handheld Bag With Bow Detail",
+      "price": "1649",
+      "color": "#FFFFE0",
+      "category": "Women's Accessories",
+      "description": "White, green & yellow striped printed handheld bag, with bow detail detail\n3 main compartments, has a zip closure, 1 external pocket, 2 inner pockets\nTablet sleeve: no\nTwo handles with a detachable sling strap\nComes with a pouch",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS9FvquDps4TbRWKoXRvoK3ppD03-X03o1F-0IEDxF9HI_8llAgO9f8js9g6ptH4PZ4M9IHvJIO-097lrRPYFsROOMBnWBzuah6Fjn82En9EvRJYtZPACVoPA&usqp=CAE"
+    },
+    {
+      "id": "5ca3",
+      "name": "Solid Non-Wired Full Coverage Non Padded Bra",
+      "price": "299",
+      "color": "#ADD8E6",
+      "category": "Undergarments and Loungewear",
+      "description": "Designed to give you sheer comfort intertwined with a supportive fit, this bra deserves to be a new addition to your lingerie range. The overall silhouette is defined to give you a perfectly contoured look.\n",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSa9U-Jw1q6g-vkBY0_9lyU_3WEjw0mPVmEJlKqklbupo3Xy6vBq1dII92rT4AM-24aG3uBIRqBFGJ1HZfP8Oaepu2ecqoYtjSrUtftcfdf01ueO9rgYXukRw&usqp=CAE"
+    },
+    {
+      "id": "aac6",
+      "name": "Men Pack Of 2 Printed Pure Cotton Boxers",
+      "price": "399",
+      "color": "White",
+      "category": "Undergarments and Loungewear",
+      "description": "100% Cotton,\nMachin wash cold,\nDo not bleach,\nDo not Dry Clean,\nDry in shade,\nUse low iron",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTvUzxgFm6guZEgjOk6wuXMOxVZWJ9B8oaRQe5boGZc3PmnO4nRYf80-lAPWvPyxwpKhvsoYhj2GcCfbtrYrwI69LfQFeQ3iWm8mGbVyJs1x3yg8RbaHgfPrg&usqp=CAE"
+    }
+  ],
+  "users": [
+    {
+      "id": "14d5",
+      "name": "Rahul",
+      "email": "abc@gmail.com",
+      "password": "xyz"
+    },
+    {
+      "id": "a97a",
+      "name": "Bob",
+      "email": "Bob_user@gmail.com",
+      "password": "ritz"
+    },
+    {
+      "id": "337c",
+      "name": "Rads",
+      "email": "krishna@gmail.com",
+      "password": "melody"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}

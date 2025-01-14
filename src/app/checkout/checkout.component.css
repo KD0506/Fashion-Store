@@ -1,0 +1,45 @@
+.checkout {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.checkout h1 {
+    text-align: center;
+    color: #0056b3;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.checkout h3 {
+    text-align: center;
+    color: #0056b3;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.checkout .prod_message {
+    text-align: center;
+    font-size: 16px;
+    color: #28a745;
+    margin-bottom: 20px;
+}
+
+.checkout .col-sm-5 {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+    text-align: center;
+}
+
+.checkout .col-sm-5 h4 {
+    font-size: 16px;
+    color: #333;
+}
+
+.checkout .col-sm-5 b {
+    color: #0056b3;
+}

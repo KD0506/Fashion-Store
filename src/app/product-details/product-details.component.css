@@ -1,0 +1,124 @@
+.product-image {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-color {
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.color-label {
+    display: inline-block;
+    font-size: 16px;
+    color: #333;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+
+.product-details {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+h3 {
+    font-size: 22px;
+    color: #007bff;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+h5, h6 {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.form-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-right: 10px;
+}
+
+.form-button:hover {
+    background-color: #0056b3;
+}
+
+.quantity-group {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px; 
+}
+
+.quantity-group button {
+    width: 40px;
+    height: 40px;
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.quantity-group button:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+.quantity-group input {
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #333;
+}
+
+@media (max-width: 768px) {
+    .product-details {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .col-sm-6 {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    h1, h3, h5, h6 {
+        text-align: center;
+    }
+
+    .quantity-group {
+        justify-content: center;
+    }
+}
